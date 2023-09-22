@@ -1,0 +1,1 @@
+# python-program-to-print-mean-of-a-element
